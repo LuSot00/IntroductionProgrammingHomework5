@@ -1,0 +1,15 @@
+C:\Users\LSots\OneDrive\Документы\GeekBrains\Домашние задания\Знакомстыо с языками программирования\Дз 5\Exercise34\obj\Debug\net6.0\Exercise34.csproj.AssemblyReference.cache
+C:\Users\LSots\OneDrive\Документы\GeekBrains\Домашние задания\Знакомстыо с языками программирования\Дз 5\Exercise34\obj\Debug\net6.0\Exercise34.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\LSots\OneDrive\Документы\GeekBrains\Домашние задания\Знакомстыо с языками программирования\Дз 5\Exercise34\obj\Debug\net6.0\Exercise34.AssemblyInfoInputs.cache
+C:\Users\LSots\OneDrive\Документы\GeekBrains\Домашние задания\Знакомстыо с языками программирования\Дз 5\Exercise34\obj\Debug\net6.0\Exercise34.AssemblyInfo.cs
+C:\Users\LSots\OneDrive\Документы\GeekBrains\Домашние задания\Знакомстыо с языками программирования\Дз 5\Exercise34\obj\Debug\net6.0\Exercise34.csproj.CoreCompileInputs.cache
+C:\Users\LSots\OneDrive\Документы\GeekBrains\Домашние задания\Знакомстыо с языками программирования\Дз 5\Exercise34\bin\Debug\net6.0\Exercise34.exe
+C:\Users\LSots\OneDrive\Документы\GeekBrains\Домашние задания\Знакомстыо с языками программирования\Дз 5\Exercise34\bin\Debug\net6.0\Exercise34.deps.json
+C:\Users\LSots\OneDrive\Документы\GeekBrains\Домашние задания\Знакомстыо с языками программирования\Дз 5\Exercise34\bin\Debug\net6.0\Exercise34.runtimeconfig.json
+C:\Users\LSots\OneDrive\Документы\GeekBrains\Домашние задания\Знакомстыо с языками программирования\Дз 5\Exercise34\bin\Debug\net6.0\Exercise34.dll
+C:\Users\LSots\OneDrive\Документы\GeekBrains\Домашние задания\Знакомстыо с языками программирования\Дз 5\Exercise34\bin\Debug\net6.0\Exercise34.pdb
+C:\Users\LSots\OneDrive\Документы\GeekBrains\Домашние задания\Знакомстыо с языками программирования\Дз 5\Exercise34\obj\Debug\net6.0\Exercise34.dll
+C:\Users\LSots\OneDrive\Документы\GeekBrains\Домашние задания\Знакомстыо с языками программирования\Дз 5\Exercise34\obj\Debug\net6.0\refint\Exercise34.dll
+C:\Users\LSots\OneDrive\Документы\GeekBrains\Домашние задания\Знакомстыо с языками программирования\Дз 5\Exercise34\obj\Debug\net6.0\Exercise34.pdb
+C:\Users\LSots\OneDrive\Документы\GeekBrains\Домашние задания\Знакомстыо с языками программирования\Дз 5\Exercise34\obj\Debug\net6.0\Exercise34.genruntimeconfig.cache
+C:\Users\LSots\OneDrive\Документы\GeekBrains\Домашние задания\Знакомстыо с языками программирования\Дз 5\Exercise34\obj\Debug\net6.0\ref\Exercise34.dll
